@@ -21,3 +21,19 @@
     color: darkseagreen;
 }
 
+table,th,td,tr{
+    border: 2px solid;
+    color: lemonchiffon;
+    text-align: center;
+    border-collapse:collapse;
+    margin: 1px;
+}
+th{
+    background-color: plum;
+}
+td{
+    padding: 12px;
+    color:darksalmon
+}
+
+
