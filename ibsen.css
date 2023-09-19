@@ -36,4 +36,13 @@ td{
     color:darksalmon
 }
 
-
+.MISSTESMAN:hover{
+    font: inherit;
+    box-shadow: 0 0 12px sienna;
+     border: 2px solid honeydew;
+}
+.BERTA:hover{
+    font: inherit;
+    box-shadow: 0 0 12px navajowhite;
+     border: 2px solid lightcoral;
+}
