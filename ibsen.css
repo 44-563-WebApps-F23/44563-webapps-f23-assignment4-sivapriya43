@@ -1,0 +1,23 @@
+.speech{
+    front-size: medium;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.direction{
+    background-color: floralwhite;
+    font-size: small;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.direction:hover{
+    background-color: honeydew;
+    color: rebeccapurple;
+}
+.mrsMISSTESMAN{
+    color: cornflowerblue;
+}
+.BERTA{
+    color: darkseagreen;
+}
+
